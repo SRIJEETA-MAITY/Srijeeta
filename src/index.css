@@ -1,0 +1,61 @@
+body{
+  background-image: linear-gradient(90deg,purple,black);
+  margin:0;
+  padding:0;
+
+}
+
+a{
+  color:white;
+  font-size: 20px;
+  
+}
+
+.con{
+  background-color: black;
+  color:white;
+  height:30vh;
+  width:100vw;
+  display:flex;
+  flex-direction: row;
+  border-radius:12px;
+  box-shadow: 10px 10px 10px rgb(110, 81, 115);
+  gap:90px;
+  margin:20px;
+  
+
+}
+.contact{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 10px;
+  padding:10px;
+  width:60%;
+  cursor:pointer;
+}
+
+.pic{
+  
+  display:flex;
+  align-items: end;
+  margin-left:10px;
+  justify-content: end;
+  cursor: pointer;
+ 
+
+}
+
+
+
+
+.me{
+  height:200px;
+  width:200px;
+  border:7px solid purple;
+  border-radius: 50%;
+  
+ 
+}
+img:hover{
+  border:12px solid,rgb(243, 64, 204);
+
+}

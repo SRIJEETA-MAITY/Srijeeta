@@ -1,0 +1,21 @@
+.footer{
+    height:400px;
+    width:100vw;
+    background-image:linear-gradient(90deg,rgb(48, 27, 55),rgb(243, 128, 254));
+    margin:12px;
+    gap:20px;
+    border-radius: 20px;
+    padding:10px;
+    color:azure;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap:80px;
+}
+
+.skill{
+    color:whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    text-decoration:double;
+}
